@@ -1,3 +1,3 @@
 # osa_detection
 
-Code for SIGMOD '21
+Code for IEICE Trans. on Info. Syst.
